@@ -1,2 +1,2 @@
 # new
-for learning git hub desktopmm
+for learning git hub desktop on git hub
